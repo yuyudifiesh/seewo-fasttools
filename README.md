@@ -9,7 +9,7 @@
 ## PPT 压缩工具
 您的 PPT 做得太好啦，就是~~稍微~~有点大。
 
-![image](https://github.com/yuyudifiesh/seewo-fasttools/blob/main/view/pptxy.gif)
+![image](./view/pptxy.gif)
 
 此工具无需联网，将在不破坏任何动画、切换、母版、字体的前提下，对图片进行二次压缩，并剔除未使用的母版/版式/字体关系，使文件体积减小 **≥30%**。
 
