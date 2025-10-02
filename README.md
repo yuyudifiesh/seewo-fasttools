@@ -5,3 +5,9 @@
 初中的电脑用的是鸿合的 win10 系统，多装几个软件（微信/B站）同时运行在后台，再打开较大的 PPT 文件时候总是异常卡顿。
 
 高中用的是希沃的 win10 系统，~~可能是学校的采购问题，也可能……（我没说过）~~，反正，在未激活的希沃一体机上打开超过 60 MB 的 PPT 并使用批量激活的盗版 Microsoft Powerpoint 读取时经常出现窗口未响应的卡死情况。总之，我做了一些小工具，希望能改善这些问题qwq。
+
+## PPT 压缩工具
+您的 PPT 做得太好啦，就是~~稍微~~有点大。
+<video id="video" controls="" preload="none" poster="">
+      <source id="mp4" src="https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1759428040697_qdqqd_tyg5vu.mp4" type="video/mp4">
+</videos>
