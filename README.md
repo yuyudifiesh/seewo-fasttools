@@ -8,6 +8,4 @@
 
 ## PPT 压缩工具
 您的 PPT 做得太好啦，就是~~稍微~~有点大。
-<video id="video" controls="" preload="none" poster="">
-      <source id="mp4" src="https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1759428040697_qdqqd_tyg5vu.mp4" type="video/mp4">
-</videos>
+![image](https://github.com/yuyudifiesh/seewo-fasttools/blob/main/view/pptxy.gif)
