@@ -17,3 +17,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 | Windows10/11 | pptxya_20251003_1.exe | 1.0.0 | 2025 年 10 月 03 日 | [【下载】](./soft/pptxya_20251003_1.exe) |
 | Windows7 | pptxya_win7.exe | 1.0.0-AlphaTest | 2025 年 10 月 03 日 | [【下载】](./soft/pptxya_win7.exe)  |
+
+## PDF 阅读工具
+使用此工具以缓解在一体机上使用默认浏览器打开 PDF 无响应问题。
+
+若您所在学校未启用希沃冰点还原或者其他还原点工具，那么默认浏览器可能被篡改为 360 浏览器或者 Edge 浏览器，低性能一体机在打开过大 PDF 可能会造成小段时间的未响应。
+
+![image](./view/pdfview.gif)
+
+此工具无需联网，只包含最简单的 PDF 阅读功能，您可以通过右上角的设置按钮来调整顶部工具栏的大小以适配大屏操作。[【在 Github 上查看 Releases】](https://github.com/yuyudifiesh/seewo-fasttools/releases)
+
+| 适用系统 | 文件名 | 版本 | 更新时间 | 下载 |
+| :---: | :---: | :---: | :---: | :---: |
+| Windows7/10/11 | pdfview.exe | 1.0.0 | 2025 年 10 月 03 日 | [【下载】](./soft/pdfview.exe) |
